@@ -6,8 +6,8 @@
     "HackYourFutureBelgium",
     "Mervat",
     "Zakaria",
-    "Aviv",
-  ]
+    "Aviv"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
