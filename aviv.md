@@ -2,7 +2,7 @@
 
 ## hello friends
 
-my name is aviv and i am a teacher and artist from :israel:/:canada:
+my name is aviv and i am a teacher and creator from :israel:/:canada:
 
 > nice to meet you!
 
