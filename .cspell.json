@@ -1,12 +1,15 @@
 {
   "language": "en",
   "words": [
+    "Aviv",
+    "Deverloper",
     "Dror",
     "HackYourFuture",
     "HackYourFutureBelgium",
+    "learnnew",
+    "Mechatronics",
     "Mervat",
-    "Zakaria",
-    "Aviv"
+    "Zakaria"
   ],
   "ignorePaths": [
     "node_modules/**",
