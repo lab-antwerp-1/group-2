@@ -8,7 +8,7 @@ Let us tell you a bit about ourselves.
 
 -[Zakaria](link22.md)
 
--[Mervat](link2.md)
+-[Mervat](https://github.com/lab-antwerp-1/group-2/blob/main/people/Mervat.md)
 
 -[Ahmed](link2.md)
 
