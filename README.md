@@ -6,12 +6,12 @@ Let us tell you a bit about ourselves.
 
 ## We are
 
--[Zakaria](https://github.com/lab-antwerp-1/group-2/blob/main/people/Zakaria.md)
+- [Zakaria](https://github.com/lab-antwerp-1/group-2/blob/main/people/Zakaria.md)
 
--[Mervat](https://github.com/lab-antwerp-1/group-2/blob/main/people/Mervat.md)
+- [Mervat](https://github.com/lab-antwerp-1/group-2/blob/main/people/Mervat.md)
 
--[Ahmed](link2.md)
+- [Ahmed](https://github.com/lab-antwerp-1/group-2/blob/main/people/Ahmed.md)
 
--[Hans](https://github.com/lab-antwerp-1/group-2/blob/main/people/Hans.md)
+- [Hans](https://github.com/lab-antwerp-1/group-2/blob/main/people/Hans.md)
 
--[Aviv](https://github.com/lab-antwerp-1/group-2/blob/main/people/aviv.md)
+- [Aviv](https://github.com/lab-antwerp-1/group-2/blob/main/people/aviv.md)
