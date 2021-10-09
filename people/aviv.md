@@ -14,4 +14,4 @@ my name is aviv and i am a teacher and creator from :israel:/:canada:
 
 [future webpage WIP](https://aviv82.github.io/Homepage/)
 
-![Aviv Dror](https://raw.githubusercontent.com/lab-antwerp-1/group-2/feature-intro-readme/pix/AvivDrorresized.jpg)
+![Aviv Dror](https://raw.githubusercontent.com/lab-antwerp-1/group-2/main/pix/AvivDrorresized.jpg)
