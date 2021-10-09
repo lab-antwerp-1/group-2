@@ -1,5 +1,8 @@
-#Hello my Name is Hans Mbua <br> I am a junior Java Developer <br> Now currently learning git
-##Some Links Here
-**1.[**My Portfolio**](https://hansmbua.github.io/Portfoliowebsite/)**
-<br>
-**2.[**My Git**](https://github.com/HansMbua/)**
+
+# Hello Friends and coaches
+* I am  **Hans**
+* I am a Junior Java Deverloper :computer: :tent:
+* Trying to learnnew stuff on Coding :joy:
+## More  here
+1. [Github](https://github.com/HansMbua)
+2. [Portfolio]( https://hansmbua.github.io/Portfoliowebsite/)
